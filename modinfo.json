@@ -1,0 +1,1 @@
+{"name":"supervisor_status","version":"1.0.0","title":"Supervisor Status v2","description":"Стан Home Assistant Supervisor через локальний API з токеном.","author":"mambursoft","license":"MIT","category":"system"}
